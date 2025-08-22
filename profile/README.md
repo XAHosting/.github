@@ -8,6 +8,6 @@ XA Hosting offers fast, reliable service with great support, scalability, and st
 We currently have a *Ryzen 9 7900* and a *Ryzen 5 3600* processors to ensure you have the best speeds ever on your server, all of that at our very cheap price of $1.25/gb!
 #
 ## Information:
-Website: https://xahosting.co/
-Discord: https://discord.gg/xahosting
+Website: https://xahosting.co/ \n
+Discord: https://discord.gg/xahosting \n
 Email: contact@xahosting.co
